@@ -1,0 +1,29 @@
+h1,p,u{
+    text-align: center;
+    font-weight: bolder;
+    background-color: #FFF;
+    color:#FF0000;
+    font-family: cursive;
+}
+
+.item{
+    justify-content: center;
+    align-self: center;
+    margin-left: 470px;
+}
+
+.item2{
+    justify-content: center;
+    align-self: center;
+    margin-left: 470px;
+    margin-top: 100px;
+}
+
+h2,p,u{
+    font-family : Lucida;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: hotpink;
+}
